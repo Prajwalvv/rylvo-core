@@ -71,7 +71,7 @@ Every brand gets:
 ## ⚙️ Tech Stack
 
 - `React` – brutal frontend for desktop & mobile
-- `n8n` – workflow & action execution
+- `Langchain` – workflow & action execution
 - `Firebase` – auth, storage, live sync
 - `Supabase` – brand configs, bot memory
 - `GPT / Claude` – for dynamic agent logic
