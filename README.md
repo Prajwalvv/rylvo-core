@@ -96,7 +96,6 @@ This repo is open for visibility, observation, and feedback — **not contributi
 
 ## 🚀 Follow the Movement
 
-- 🔥 Twitter: [@yourhandle](https://x.com/yourhandle)  
 - 🧪 Site: [rylvo.com](https://rylvo.com) (coming soon)  
 - 🛠️ Build Log: [GitHub Issues](https://github.com/rylvo-core/issues)
 
